@@ -7,7 +7,7 @@
 6. Press the generate tables button
 OR 
 Run the project through this link:
-https://www.students.cs.ubc.ca/~yuxuanhe/project.php
+https://www.students.cs.ubc.ca/~alexc330/project.php
 
 
 
